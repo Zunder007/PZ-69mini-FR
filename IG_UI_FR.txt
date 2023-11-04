@@ -7,14 +7,14 @@ IG_UI_FR = {
 
 	IGUI_VehiclePartMINI69BumperFront = "Pare-chocs avant",
 	IGUI_VehiclePartMINI69BumperRear = "Pare-chocs arrière",
-	IGUI_VehiclePartMINI69SpareTire = "Pneu de rechange",
+	IGUI_VehiclePartMINI69SpareTire = "Pneu de secours",
 
-	IGUI_VehiclePartMINI69WindshieldArmor = "Armure de pare-brise",
-	IGUI_VehiclePartMINI69WindshieldRearArmor = "Armure de pare-brise arrière",
-	IGUI_VehiclePartMINI69DoorFrontLeftArmor = "Armure de portière avant gauche",
-	IGUI_VehiclePartMINI69DoorFrontRightArmor = "Armure de portière avant droite",
-	IGUI_VehiclePartMINI69WindowRearLeftArmor = "Armure de vitre arrière gauche",
-	IGUI_VehiclePartMINI69WindowRearRightArmor = "Armure de vitre arrière droite",
+	IGUI_VehiclePartMINI69WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartMINI69WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartMINI69DoorFrontLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartMINI69DoorFrontRightArmor = "Blindage de portière avant droite",
+	IGUI_VehiclePartMINI69WindowRearLeftArmor = "Blindage de vitre arrière gauche",
+	IGUI_VehiclePartMINI69WindowRearRightArmor = "Blindage de vitre arrière droite",
 
 	IGUI_VehiclePartMINI69Trunk = "Coffre",
 	IGUI_VehiclePartMINI69Roofrack = "Galerie de toit",
