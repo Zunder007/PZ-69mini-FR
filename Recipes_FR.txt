@@ -1,14 +1,14 @@
 Recipes_FR = {
 	Recipe_Make_MINI69_Bumper_with_Lights = "Fabriquer Pare-chocs avec lumières",
 	Recipe_Make_MINI69_Bumper_with_Lights_2 = "Fabriquer Pare-chocs avec lumières",
-	Recipe_Make_MINI69_Front_Door_Armor = "Fabriquer Armure de portière avant",
+	Recipe_Make_MINI69_Front_Door_Armor = "Fabriquer Blindage de portière avant",
 	Recipe_Make_MINI69_Front_Side_Window = "Fabriquer Vitre latérale avant",
 	Recipe_Make_MINI69_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
-	Recipe_Make_MINI69_Rear_Window_Armor = "Fabriquer Armure de lunette arrière",
+	Recipe_Make_MINI69_Rear_Window_Armor = "Fabriquer Blindage de lunette arrière",
 	Recipe_Make_MINI69_Rear_Windshield = "Fabriquer Pare-brise arrière",
-	Recipe_Make_MINI69_Rear_Windshield_Armor = "Fabriquer Armure de pare-brise arrière",
+	Recipe_Make_MINI69_Rear_Windshield_Armor = "Fabriquer Blindage de pare-brise arrière",
 	Recipe_Make_MINI69_Roofrack = "Fabriquer Galerie de toit",
 	Recipe_Make_MINI69_Windshield = "Fabriquer Pare-brise",
-	Recipe_Make_MINI69_Windshield_Armor = "Fabriquer Armure de pare-brise",
+	Recipe_Make_MINI69_Windshield_Armor = "Fabriquer Blindage de pare-brise",
 	Recipe_Pry_Open_Crate_of_Tea = "Ouvrir la caisse de thé",
 }
