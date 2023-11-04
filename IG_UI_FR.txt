@@ -1,0 +1,21 @@
+IG_UI_FR = {
+	IGUI_VehicleName69mini = "'69 Mini",
+	IGUI_VehicleName69miniUnionJack = "Union Jack Mini",
+	IGUI_VehicleName69miniMrB = "MrBean's Mini",
+	IGUI_VehicleName69miniIJ = "Italian Job Mini",
+	IGUI_VehicleName69miniPS = "Pitbull Spécial Mini",
+
+	IGUI_VehiclePartMINI69BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartMINI69BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartMINI69SpareTire = "Pneu de rechange",
+
+	IGUI_VehiclePartMINI69WindshieldArmor = "Armure de pare-brise",
+	IGUI_VehiclePartMINI69WindshieldRearArmor = "Armure de pare-brise arrière",
+	IGUI_VehiclePartMINI69DoorFrontLeftArmor = "Armure de portière avant gauche",
+	IGUI_VehiclePartMINI69DoorFrontRightArmor = "Armure de portière avant droite",
+	IGUI_VehiclePartMINI69WindowRearLeftArmor = "Armure de vitre arrière gauche",
+	IGUI_VehiclePartMINI69WindowRearRightArmor = "Armure de vitre arrière droite",
+
+	IGUI_VehiclePartMINI69Trunk = "Coffre",
+	IGUI_VehiclePartMINI69Roofrack = "Galerie de toit",
+}
