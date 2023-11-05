@@ -18,4 +18,7 @@ IG_UI_FR = {
 
 	IGUI_VehiclePartMINI69Trunk = "Coffre",
 	IGUI_VehiclePartMINI69Roofrack = "Galerie de toit",
+
+	IGUI_CraftCategory_MINI69 = "'69 Mini Mk2",
+	IGUI_CraftCategory_Food = "'69 Mini Mk2 - Thé",
 }
