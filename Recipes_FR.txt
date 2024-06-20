@@ -11,4 +11,11 @@ Recipes_FR = {
 	Recipe_Make_MINI69_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_MINI69_Windshield_Armor = "Fabriquer Blindage de pare-brise",
 	Recipe_Pry_Open_Crate_of_Tea = "Ouvrir la caisse de thé",
+
+	Recipe_Dismantle_Mini_Armor = "Démonter Blindage",
+	Recipe_Dismantle_Mini_Door = "Démonter Portière",
+	Recipe_Dismantle_Mini_Lid = "Démonter Coffre",
+	Recipe_Dismantle_Mini_Roofrack = "Démonter Galerie de toit",
+	Recipe_Dismantle_Mini_Seat = "Démonter Siège",
+	Recipe_Dismantle_Mini_Tire = "Démonter Pneu",
 }
