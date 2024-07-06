@@ -18,4 +18,8 @@ Recipes_FR = {
 	Recipe_Dismantle_Mini_Roofrack = "Démonter Galerie de toit",
 	Recipe_Dismantle_Mini_Seat = "Démonter Siège",
 	Recipe_Dismantle_Mini_Tire = "Démonter Pneu",
+
+	Recipe_Make_Front_Window_Armor = "Fabriquer Blindage de vitre avant",
+	Recipe_Make_Rear_Window_Armor = "Fabriquer Blindage de vitre arrière",
+	Recipe_Make_Vehicle_Roofrack = "Fabriquer Galerie de toit",
 }
