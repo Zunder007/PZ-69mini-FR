@@ -22,4 +22,18 @@ Recipes_FR = {
 	Recipe_Make_Front_Window_Armor = "Fabriquer Blindage de vitre avant",
 	Recipe_Make_Rear_Window_Armor = "Fabriquer Blindage de vitre arrière",
 	Recipe_Make_Vehicle_Roofrack = "Fabriquer Galerie de toit",
+
+	Recipe_Dismantle_69_Mini_Armor = "Démonter Blindage",
+	Recipe_Dismantle_69_Mini_Door = "Démonter Portière",
+	Recipe_Dismantle_69_Mini_Lid = "Démonter Coffre",
+	Recipe_Dismantle_69_Mini_Roofrack = "Démonter Galerie de toit",
+	Recipe_Dismantle_69_Mini_Seat = "Démonter Siège",
+	Recipe_Dismantle_69_Mini_Tire = "Démonter Pneu",
+	Recipe_Make_69_Mini_Front_Window_Armor = "Fabriquer Blindage Vitre avant",
+	Recipe_Make_69_Mini_Rear_Window_Armor = "Fabriquer Blindage Vitre arrière",
+	Recipe_Make_69_Mini_Rear_Windshield_Armor = "Fabriquer Blindage Pare-brise arrière",
+	Recipe_Make_69_Mini_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_69_Mini_Tire = "Fabriquer Pneu",
+	Recipe_Make_69_Mini_Windshield_Armor = "Fabriquer Blindage Pare-brise",
+	Recipe_Repair_69_Mini_Tire = "Réparer Pneu",
 }
